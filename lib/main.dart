@@ -12,6 +12,7 @@ import 'meal_list.dart';
 void main() {
   runApp(InjewelApp());
 }
+// 수정합니다.
 
 class InjewelApp extends StatefulWidget {
   const InjewelApp({Key? key}) : super(key: key);
