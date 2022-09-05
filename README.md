@@ -1,5 +1,5 @@
 # Injewelme Project
-Flutter로 제작한 injewelme 제출용 프로젝트입니다.
+Flutter로 제작한 injewelme 제출용 프로젝트입니다. 설치용 apk 파일은 InjewelmeProjects/app-release.apk 입니다.
 
 ## 라이브러리
 
