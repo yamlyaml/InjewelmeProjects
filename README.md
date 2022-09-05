@@ -1,6 +1,3 @@
-# renew
-
-A new Flutter project.
-
-## Getting Started
+# Injewelme Project
+injewelme 제출용 프로젝트입니다.
 
